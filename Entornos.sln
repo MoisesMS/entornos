@@ -7,7 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TipoDeDatos", "TipoDeDatos\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "valoresMaximosMinimos", "valoresMaximosMinimos\valoresMaximosMinimos.csproj", "{43CF2AB5-65BD-4FBE-993A-BD7CFD3882EF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tarea12", "Tarea12\Tarea12.csproj", "{D9985A3A-4000-4D23-958F-DD676D24B3A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tarea12", "Tarea12\Tarea12.csproj", "{D9985A3A-4000-4D23-958F-DD676D24B3A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bucles", "bucles\bucles.csproj", "{8BE7A9F2-A78C-4BC1-84F4-99B22B56A442}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libreria", "libreria\libreria.csproj", "{EC67AB5B-B610-45DA-8301-13818CDDD833}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{D9985A3A-4000-4D23-958F-DD676D24B3A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9985A3A-4000-4D23-958F-DD676D24B3A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9985A3A-4000-4D23-958F-DD676D24B3A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BE7A9F2-A78C-4BC1-84F4-99B22B56A442}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BE7A9F2-A78C-4BC1-84F4-99B22B56A442}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BE7A9F2-A78C-4BC1-84F4-99B22B56A442}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BE7A9F2-A78C-4BC1-84F4-99B22B56A442}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC67AB5B-B610-45DA-8301-13818CDDD833}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC67AB5B-B610-45DA-8301-13818CDDD833}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC67AB5B-B610-45DA-8301-13818CDDD833}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC67AB5B-B610-45DA-8301-13818CDDD833}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
