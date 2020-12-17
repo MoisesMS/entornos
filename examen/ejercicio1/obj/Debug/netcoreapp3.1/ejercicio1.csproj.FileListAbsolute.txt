@@ -1,0 +1,13 @@
+C:\Users\Azul\Desktop\Moises_Salazar\examen\ejercicio1\bin\Debug\netcoreapp3.1\ejercicio1.exe
+C:\Users\Azul\Desktop\Moises_Salazar\examen\ejercicio1\bin\Debug\netcoreapp3.1\ejercicio1.deps.json
+C:\Users\Azul\Desktop\Moises_Salazar\examen\ejercicio1\bin\Debug\netcoreapp3.1\ejercicio1.runtimeconfig.json
+C:\Users\Azul\Desktop\Moises_Salazar\examen\ejercicio1\bin\Debug\netcoreapp3.1\ejercicio1.runtimeconfig.dev.json
+C:\Users\Azul\Desktop\Moises_Salazar\examen\ejercicio1\bin\Debug\netcoreapp3.1\ejercicio1.dll
+C:\Users\Azul\Desktop\Moises_Salazar\examen\ejercicio1\bin\Debug\netcoreapp3.1\ejercicio1.pdb
+C:\Users\Azul\Desktop\Moises_Salazar\examen\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.csprojAssemblyReference.cache
+C:\Users\Azul\Desktop\Moises_Salazar\examen\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.AssemblyInfoInputs.cache
+C:\Users\Azul\Desktop\Moises_Salazar\examen\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.AssemblyInfo.cs
+C:\Users\Azul\Desktop\Moises_Salazar\examen\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Azul\Desktop\Moises_Salazar\examen\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.dll
+C:\Users\Azul\Desktop\Moises_Salazar\examen\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.pdb
+C:\Users\Azul\Desktop\Moises_Salazar\examen\ejercicio1\obj\Debug\netcoreapp3.1\ejercicio1.genruntimeconfig.cache
